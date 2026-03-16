@@ -1,5 +1,5 @@
 import unittest
-from questao2_hash.questao2 import Nodo, TabelaHash
+from questao2 import Nodo, TabelaHash
 
 class TestListaEstados(unittest.TestCase):
     def setUp(self):
